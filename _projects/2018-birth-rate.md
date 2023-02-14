@@ -3,11 +3,7 @@ layout:      project
 title:       "European Birth and Death Rates"
 date:        01 Aug 2018
 image:
-  path:       assets/img/birth_death.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2018/birth_death.png
 caption:     Analysis and comparison of birth and death rates in Europe.
 description: >
   In this project, I used ArcGIS Desktop to compare the birth and death rates per 1000 of European countries.

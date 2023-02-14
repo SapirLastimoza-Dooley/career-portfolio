@@ -3,11 +3,7 @@ layout:      project
 title:       "Xarray-Spatial"
 date:        26 May 2021
 image:
-  path:       assets/img/xarray-spatial.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2021/xarray-spatial.png
 caption:     Raster-Based Spatial Analysis Python Library
 description: >
   The purpose of this project is to provide an open-source tool for performing raster analysis on large datasets without the use of GDAL / GEOS. With tools ranging from classification, to multispectral analysis, to pathfinding. Xarray-Spatial gives the open-source community the ability to perform raster analysis quickly and easily through DASK and Numba integration.

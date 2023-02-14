@@ -3,11 +3,7 @@ layout:      project
 title:       "European Natural Rate of Increase"
 date:        01 Aug 2018
 image:
-  path:       assets/img/eu_nat_inc.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2018/eu_nat_inc.jpg
 caption:     Analysis of the rate of natural increase in Europe in 2008
 description: >
   In this project, I used ArcGIS Desktop to create a choropleth map showing the rate at which population was increasing at the time.

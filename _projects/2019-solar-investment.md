@@ -3,11 +3,7 @@ layout:      project
 title:       "States and Solar Energy"
 date:        1 Jul 2019
 image:
-  path:       assets/img/investment_jobs_growth.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2019/investment_jobs_growth.jpg
 caption:     Analysis of the affect of state investment in Solar Energy.
 description: >
   The purpose of this project is to analyze individual states' solar sector growth and job creation for correlation to state investment using choropleth maps created in ArcGIS Desktop. 

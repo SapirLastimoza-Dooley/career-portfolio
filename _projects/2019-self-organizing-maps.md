@@ -3,11 +3,7 @@ layout:      project
 title:       "Self-Organizing Maps"
 date:        3 Sep 2019
 image:
-  path:       assets/img/Polk_Seasons.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2019/Polk_Seasons.png
 caption:     Clustering analysis on the temporal characteristics of car crashes.
 description: >
   The purpose of this project is to analyze vehicle crash data from Scott and Polk county, Iowa for spatio-temporal trends. Using unsupervised machine learning and self-organizing heatmaps, trends in crash date and time can be found. By combining these trends with spatial distributions in ArcGIS Pro, the heatmaps can be transformed into dot density maps with varying color scale.

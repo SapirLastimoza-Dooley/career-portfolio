@@ -3,11 +3,7 @@ layout:      project
 title:       "Texas Farms"
 date:        01 Aug 2018
 image:
-  path:       assets/img/farms.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2018/farms.jpg
 caption:     Density analysis of Texan farms.
 description: >
   In this project, I used ArcGIS Desktop to show the desnity of farms in texas by county.

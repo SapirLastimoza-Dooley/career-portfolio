@@ -3,11 +3,7 @@ layout:      project
 title:       "Population Density Analysis in Europe"
 date:        01 Aug 2018
 image:
-  path:       assets/img/pop_den_eu.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2018/pop_den_eu.jpg
 caption:     Analysis of population density per square kilometer in Europe, 2008.
 description: >
   In this project, I used ArcGIS Desktop to create a choropleth map depicting the population density of European countries. 

@@ -3,11 +3,7 @@ layout:      project
 title:       "Campus Tour"
 date:        01 May 2020
 image:
-  path:       assets/img/3d_story.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2020/3d_story.jpg
 caption:     Quick tour of what I think of when you say campus.
 description: >
   In this project, I used ArcGIS StoryMap to create a quick 3D tour of every building I have ever been in on the TAMU campus.

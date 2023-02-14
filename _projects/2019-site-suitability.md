@@ -3,11 +3,7 @@ layout:      project
 title:       "Site Suitability Analysis"
 date:        01 Mar 2019
 image:
-  path:       assets/img/site_suitability.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2019/site_suitability.jpg
 caption:     Site selection to determine optimal location for frozen yogurt restaurant.
 description: >
   In this project, I used ArcGIS Desktop to analyze the College Station, TX area for potential site locations based on customer requirments.

@@ -3,11 +3,7 @@ layout:      project
 title:       "Geocoding"
 date:        01 Mar 2019
 image:
-  path:       assets/img/geocoding.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2019/geocoding.jpg
 caption:     Georefrencing a digital orthograph of Texas A&M. 
 description: >
   In this project, I used ArcGIS Desktop to georeference an image to the NAD 83 coordinate system and produced a map for analysis of the Texas A&M campus.

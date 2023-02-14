@@ -3,11 +3,7 @@ layout:      project
 title:       "Customer Data Analysis: TK Paddles"
 date:        01 May 2020
 image:
-  path:       assets/img/FutureProspects.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2020/FutureProspects.png
 caption:     Customer demographics and sales analysis for TK Paddles, LLC.
 description: >
   The purpose of this project is to analyze TK Paddles LLC sales data for trends in Python and R. Using information on customer location, related organization, sales number, and profit margin infographics and maps are produced depicting spatial and temporal trends. Using this information, reasonable predictions can be made on potential customer locations, future sales figures, and marketing strategies can be adjusted to account for areas where customer interaction is low.

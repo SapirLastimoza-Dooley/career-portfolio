@@ -3,11 +3,7 @@ layout:      project
 title:       "Instagram Webscraper"
 date:        10 Oct 2020
 image:
-  path:       assets/img/webscraper.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2020/webscraper.png
 caption:     Tool for automated webscraping of irregular data source.
 description: >
   The purpose of this project is to create a tool for scraping atypically formatted data at a large scale from a website using automated testing software. In this instance, customer-related information will be collected from Instagram. With this tool, the user is able to automatically log in and search each post within the feed for specific keywords. If a keyword is found, the program will save the post and related information including: the author, the location of the post, and the link to the post. With this tool, marketing strategies can be streamlined and the stresses of social media marketing will be lightened.

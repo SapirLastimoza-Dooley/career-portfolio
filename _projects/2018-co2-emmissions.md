@@ -3,11 +3,7 @@ layout:      project
 title:       "World Co2 Emissions"
 date:        01 Aug 2018
 image:
-  path:       assets/img/cartogram.jpg
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2018/cartogram.jpg
 caption:     Comparison of world carbon emissions and GDP.
 description: >
   In this project, I used ArcGIS Desktop to create a cartogram depicting the relatinship between world country's carbon dioxide emissions and their GDP.

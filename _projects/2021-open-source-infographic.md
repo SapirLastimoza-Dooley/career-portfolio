@@ -3,11 +3,7 @@ layout:      project
 title:       "Open Source Infographic"
 date:        26 May 2021
 image:
-  path:       assets/img/opensourceinfographic.png
- # srcset:
-    #1920w:   /assets/img/blog/blog/hydejack-8.jpg
-   # 960w:    /assets/img/blog/blog/hydejack-8.jpg
-   # 480w:    /assets/img/blog/blog/hydejack-8.jpg
+  path:       assets/img/projects/2021/opensourceinfographic.png
 caption:     Interactive Infographic of open source libraries, tools, languages and more.
 description: >
   The purpose of this project is to honor and highlight the contributors that have made it possible for open source GIS to grow and flourish.
