@@ -7,10 +7,19 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             
-    I am a Texas A&M Geographic Information Science student, graduating in the Spring of 2021 and minoring in Sustainable Architecture. I love music, woodworking, programming, and of course - geography. 
-    I possess a comprehensive skill set and passion for everything I do. I am searching for a career that will not only allow me to serve the community, but also provide an opportunity
-    to grow and expand my knowledge of the profession and address areas in which I can improve.
+  about:
+    Howdy! I'm Sapir, an Automation Engineer and Software Development Engineer in Test (SDET) with a lot of 
+    experience in test automation, software development, and team management. I'm super passionate about making sure 
+    the software I work on is high-quality, and I've spent my career so far implementing end-to-end testing processes. 
+    Currently, I work at Esri Field Maps, where I do a bunch of cool stuff like modernizing the Jenkins CI/CD pipeline to 
+    Docker Swarm, migrating mobile and web Selenium hubs, and managing services like Allure, CrateDB, and Nginx. I also 
+    wrote unit and end-to-end UI tests for forms, map pan and zoom functions, custom geocoders, and destination routing 
+    using Selenium Python and Appium. Oh, and I standardized UI validation methods, test code structure, 
+    and documentation structure too. Outside of work, I own TK Paddles, LLC, where I lead a team of five board members 
+    and seven employees. I've done marketing and production processes, analyzed client data using Plotly, Jupyter, 
+    and R, and even created a web scraping tool with ArcPy and Selenium for creating web maps of potential customers. 
+    I'm used to working in fast-paced environments, managing complex projects, and collaborating with cross-functional 
+    teams.
 
   # This photo will be used in the about section
   picture:
@@ -24,7 +33,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    # twitter:         
+    # twitter:
     github:          sapirLastimoza-Dooley
     email:           sapirdooley@gmail.com
     # rss:             https://<url>/feed.xml
