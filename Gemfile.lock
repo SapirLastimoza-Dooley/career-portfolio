@@ -264,7 +264,7 @@ DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-compose
   jekyll-include-cache
-  jekyll-theme-hydejack
+  jekyll-theme-hydejack (~> 9.1, >= 9.1.6)
   webrick
 
 BUNDLED WITH
